@@ -11,3 +11,38 @@
     padding: 5px;
     border-bottom: #444 dotted 1px;
 }
+
+#home-info .info-img{
+    display: none
+}
+
+#home-info .info-content {
+    float: none;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding: 50px 30px;
+    overflow: hidden;
+  }
+
+  .box {
+      float: none;
+      width: 100%;
+  }
+
+  #about-info .info-right, 
+  #about-info .info-left {
+      float: none;
+      width: 100%;
+  }
+
+  #about-info .info-right{
+      margin-top: 30px;
+  }
+
+  .l-heading {
+      text-align: center;
+  }
+  #contact-info .box{
+      border-bottom: dashed 1px #444;
+  }
